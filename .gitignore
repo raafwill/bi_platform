@@ -1,0 +1,10 @@
+env/
+*.pyc
+__pycache__/
+*.sqlite3
+*.pbit
+*.pbix
+.vscode/
+*.log
+node_modules/
+dist/
